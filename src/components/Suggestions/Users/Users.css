@@ -1,0 +1,39 @@
+.pro-pic img{
+    width: 300px;
+}
+.user{
+    display: flex;
+    border-bottom: 2px solid rgb(208, 149, 0);
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    box-shadow: 1px 1px 15px rgb(53, 53, 76)
+}
+.info{
+    /* margin-left: 10px; */
+    padding-left: 30px;
+}
+.userName{
+    color: rgb(0, 0, 118);
+    font-weight: 800;
+}
+.money-amount{
+    color: rgb(0, 193, 0);
+}
+.info button{
+    color: white;
+    background-color: rgb(83, 83, 147);
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btns{
+    display: flex;
+    margin-left: 10px;
+}
+.add-btn{
+
+}

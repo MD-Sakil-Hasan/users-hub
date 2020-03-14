@@ -1,0 +1,10 @@
+.status{
+ text-align: center;
+ padding: 5px;
+}
+.heading{
+ font-weight: 900;
+}
+.amount{
+    color: rgb(0, 255, 0), 206, 6);
+}

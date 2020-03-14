@@ -1,0 +1,40 @@
+.header img{
+    height: 250px;
+}
+.header{
+    text-align: center;
+}
+.header nav{
+    line-height: 40px;
+    background-color: rgb(84, 84, 110);
+    font-size: 20px;
+}
+.header a{
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-bottom: 10px;
+    margin-left: 50px;
+    color: white;
+
+}
+.header input{
+    width: 30%;
+    padding: 5px;
+    /* float: right; */
+    margin-right: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+nav button{
+    border-radius: 7px;
+}
+.search-bar{
+    background-color: rgb(84, 84, 110);
+    /* float: right; */
+}
+nav a:hover{
+    background-color: rgb(255, 184, 92);
+}
